@@ -1,2 +1,3 @@
 # little-things
-Little things I wrote.
+Little things I wrote. They're "bodged together," to use a British term...
+They may or may not have good coding style. (Bodged together implies that)
